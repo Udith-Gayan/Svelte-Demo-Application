@@ -53,4 +53,6 @@ App.svelte is the main component.
 In App.svelte, Lines 29, 31,33 shows the integration of three components into the page and I have used three different ways to pass props value into those child components. You can use any .
 
 
+## Deployed 
 
+[svelte-demo-application.vercel.app/](https://svelte-demo-application.vercel.app/)
